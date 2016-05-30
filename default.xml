@@ -10,6 +10,9 @@
           fetch="https://github.com"
           review=".." />
 
+  <remote  name="paranoiagu"
+	   fetch="https://github.com" />
+
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.org" />
